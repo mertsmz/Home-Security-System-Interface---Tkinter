@@ -3,7 +3,7 @@
 
 
 
-The interface has a internal keyboard for taking inputs from the user through a touch screen panel. Other interactions are carried on with basic touch controls.
+The interface has a internal keyboard for taking inputs from the user through a touch screen panel. Other interactions are carried on with basic touch controls. For database, MYSQL is used and it is controlled on Python with the aid of mysql-connector module.
 
 **Lockscreen:**  
 ![1 - homescreen](https://user-images.githubusercontent.com/32621628/198093128-9e1e92f1-af77-43ef-b496-f3358a914393.jpg)
