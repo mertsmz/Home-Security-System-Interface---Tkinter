@@ -5,7 +5,7 @@
 
 The interface has a internal keyboard for taking inputs from the user through a touch screen panel. Other interactions are carried on with basic touch controls.
 
-**Lockscreen:**  ![1 - homescreen](https://user-images.githubusercontent.com/32621628/198093128-9e1e92f1-af77-43ef-b496-f3358a914393.jpg)  
+**Lockscreen:**  ![1 - homescreen](https://user-images.githubusercontent.com/32621628/198093128-9e1e92f1-af77-43ef-b496-f3358a914393.jpg)
 **Username/Pass Screen:**  ![2- usernamepass screen](https://user-images.githubusercontent.com/32621628/198093732-7d091b2d-d8b0-488e-a6ad-68bb4c3fb4b6.jpg)  
 
 
