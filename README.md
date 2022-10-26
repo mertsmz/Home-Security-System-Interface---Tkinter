@@ -8,14 +8,16 @@ The interface has a internal keyboard for taking inputs from the user through a 
 **Lockscreen:**  
 ![1 - homescreen](https://user-images.githubusercontent.com/32621628/198093128-9e1e92f1-af77-43ef-b496-f3358a914393.jpg)
 
+
 **Username/Pass Screen:**  
 ![2- usernamepass screen](https://user-images.githubusercontent.com/32621628/198093732-7d091b2d-d8b0-488e-a6ad-68bb4c3fb4b6.jpg) 
+
 
 **Homescreen:**  
 ![4-homescreen](https://user-images.githubusercontent.com/32621628/198093830-072e4c38-eacc-4384-a76d-bf73e548ffbf.jpg)
 
 
-**Resident Introduction Steps:**
+**Resident Introduction Steps:**  
 ![1](https://user-images.githubusercontent.com/32621628/198094099-d34dcd01-77c1-4967-9f39-b3dde6258df7.jpg)
 
 ![2](https://user-images.githubusercontent.com/32621628/198094104-e62775f4-e5a0-4fde-9f42-b10d75d33326.jpg)
@@ -29,7 +31,7 @@ The interface has a internal keyboard for taking inputs from the user through a 
 ![6](https://user-images.githubusercontent.com/32621628/198094227-744ddaf1-8590-4a31-aa80-09c449095c8e.jpg)
 
 
-**Guest Introduction Steps:**
+**Guest Introduction Steps:**  
 ![1](https://user-images.githubusercontent.com/32621628/198094253-90813cc0-04f5-4848-8a18-66258761a5d7.jpg)
 
 ![2](https://user-images.githubusercontent.com/32621628/198094261-45f423eb-3745-43b7-9e1f-700d62881d44.jpg)
@@ -37,15 +39,14 @@ The interface has a internal keyboard for taking inputs from the user through a 
 ![3](https://user-images.githubusercontent.com/32621628/198094277-c2dad91d-fc18-4d65-9876-ce4eef2d2aad.jpg)
 
 
-**Checking Databases (Residents, Guests, Logs):**
-
+**Checking Databases (Residents, Guests, Logs):**  
 ![7 check resdent](https://user-images.githubusercontent.com/32621628/198094411-e50aa913-9d4f-4418-8d25-5e32a3257fc7.jpg)
 
 ![8 delete resident](https://user-images.githubusercontent.com/32621628/198094431-7e05b54a-fee8-48b0-b1a5-2da791583235.jpg)
-
 
 ![9 check guest](https://user-images.githubusercontent.com/32621628/198094450-797062a8-f131-4ef6-9359-1772c4c3b949.jpg)
 
 ![10-check log](https://user-images.githubusercontent.com/32621628/198094472-0d941993-2570-4e58-ac60-16cf9be2ac76.jpg)
 
-**Camera Control:**
+**Camera Control:**  
+![11- camera control screen](https://user-images.githubusercontent.com/32621628/198095882-a7324132-d93e-47be-8f44-882bb6d2f397.jpg)
